@@ -1,0 +1,17 @@
+# robots.txt for Beijing Threshold Microbial Technology Co., Ltd
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bjyuwei.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Block access to app-ads.txt
+Allow: /app-ads.txt
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/

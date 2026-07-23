@@ -1,0 +1,3 @@
+# app-ads.txt for Beijing Threshold Microbial Technology Co., Ltd
+# This file will be updated with advertising network configurations
+# For more information, visit: https://bjyuwei.com
